@@ -183,7 +183,7 @@ We identified two problems that we wanted to tackle in this study
 
 ::: {.column width="50%"}
 ::: fragment
-2.  Approximating **causal inference** to test the effects of misinformation
+2.  Approximating **causal inference** to test the effects of misinformation in the wild
 
 ### Non-parametric matching strategy (#2)
 :::
