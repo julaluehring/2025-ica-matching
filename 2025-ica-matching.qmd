@@ -183,7 +183,7 @@ We identified two problems that we wanted to tackle in this study
 
 ::: {.column width="50%"}
 ::: fragment
-2.  Approximating **causal inference** to test the effects of misinformation on different emotions
+2.  Approximating **causal inference** to test the effects of misinformation
 
 ### Non-parametric matching strategy (#2)
 :::
@@ -234,7 +234,7 @@ So, we derived 2 major objectives:
 
 <br>
 
-$\rightarrow$ <span style="font-size:80%">*today at 12PM!*</span>
+$\rightarrow$ <span style="font-size:80%">*today at 12:00!*</span>
 
 :::
 
@@ -284,11 +284,9 @@ $\rightarrow$ probability of each tweet containing each emotion (0-1)
 
 ::: {.column width="40%"}
 
-::: fragment 
 
 ![](images/roc_curve.png){width="500"}
 
-:::
 
 :::
 :::
