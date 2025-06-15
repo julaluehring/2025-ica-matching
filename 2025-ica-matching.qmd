@@ -20,16 +20,16 @@ logo: "logos/uni_wien_logo_blue.jpg"
 editor: visual #visual editor
 ---
 
-## Effects of Source Trustworthiness on Online Interactions
 
-### ICA 2025 in Denver, USA
+## Emotions & Misinformation: A Causal Analysis of Twitter News Discussions
+
+### 75th ICA 2025 in Denver, USA
 
 <br>
 <br> 
 
-**Jula Luehring** 
+**Jula Luehring**, David Garcia, Annie Waldherr, Jana Lasser, Apeksha Shetty & Hannah Metzler
 
-*University of Vienna & Complexity Science Hub* <br>
 
 ::: columns
 ::: {.column width="60%"}
@@ -43,19 +43,8 @@ editor: visual #visual editor
 
 
 
-## On emotions and identity
 
-![](images/emotions-identity.png){width="700"}
-
-
-::: notes
-
-- People who believe in misinformation are often seen as irrational and stupid 
-
-::: 
-
-
-## What do we know?
+## Emotions and misinformation
 
 ::: columns
 
@@ -315,8 +304,32 @@ Widmann & Wich, [2022](https://doi.org/10.1017/pan.2022.15)
 -   This plot shows the covered time frame from October 2020 to March 2022 and we can already see that anger is overall much higher
 :::
 
+## About populations and covariates
+
+::: columns
+::: {.column width="35%"}
+
+![](images/trustworthiness.png){width="300"}
+
+$\rightarrow$ robust 6% of untrustworthy news
+
+:::
+
+::: {.column width="65%"}
+
+::: fragment 
+
+![](images/covariates-correlations.png){width="500"}
+
+$\rightarrow$ matching mitigates carryover effects
+:::
+:::
+
+:::
+
 ## Non-parametric matching
 
+<br>
 <br>
 <br>
 
@@ -347,29 +360,6 @@ Widmann & Wich, [2022](https://doi.org/10.1017/pan.2022.15)
 Ho et al., [2007](https://www.cambridge.org/core/journals/political-analysis/article/matching-as-nonparametric-preprocessing-for-reducing-model-dependence-in-parametric-causal-inference/4D7E6D07C9727F5A604E5C9FCCA2DD21)
 :::
 
-
-## Descriptive results
-
-::: columns
-::: {.column width="35%"}
-
-![](images/trustworthiness.png){width="300"}
-
-$\rightarrow$ robust 6% of untrustworthy news
-
-:::
-
-::: {.column width="65%"}
-
-::: fragment 
-
-![](images/covariates-correlations.png){width="550"}
-
-$\rightarrow$ matching mitigates carryover effects
-:::
-:::
-
-:::
 
 
 
